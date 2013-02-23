@@ -18,7 +18,7 @@
                 // Restore application state here.
             }
             args.setPromise(WinJS.UI.processAll());
-
+            // Test
             var helloButton = document.getElementById("helloButton");
             helloButton.addEventListener("click", buttonClickHandler, false);
         }
