@@ -7,3 +7,7 @@ C:\Projects\HelloWorld\HelloWorld\bld\Debug\resources.resfiles
 C:\Projects\HelloWorld\HelloWorld\bld\Debug\pri.resfiles
 C:\Projects\HelloWorld\HelloWorld\bld\Debug\LanguageQualifiers.txt
 C:\Projects\HelloWorld\HelloWorld\bld\Debug\ProjectArchitectures.txt
+C:\Projects\HelloWorld\HelloWorld\bld\Debug\priconfig.xml.intermediate
+C:\Projects\HelloWorld\HelloWorld\bld\Debug\layout.resfiles.intermediate
+C:\Projects\HelloWorld\HelloWorld\bld\Debug\resources.resfiles.intermediate
+C:\Projects\HelloWorld\HelloWorld\bld\Debug\pri.resfiles.intermediate

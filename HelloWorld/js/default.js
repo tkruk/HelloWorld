@@ -38,6 +38,7 @@
         var userName = document.getElementById("nameInput").value;
         var greetingString = "Hello, " + userName + "!";
         document.getElementById("greetingOutput").innerText = greetingString;
+        // Testing
     }
 
     app.start();
